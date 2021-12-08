@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Weblearn</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.common.project.facet.core.builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.wst.validation.validationbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
+		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/image_sach</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>WebContent/image_sach/Default.aspx</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/Default.aspx</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/Default.aspx.vb</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/Default.aspx.vb</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/K4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/K4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/a1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/a1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/a3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/a3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/a4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/a4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/a5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/a5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b11.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b11.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b12.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b12.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b14.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b14.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b16.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b16.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b17.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b17.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b18.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b18.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b19.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b19.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b20.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b20.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b21.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b21.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b22.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b22.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b24.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b24.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b25.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b25.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/b8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/b8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c10.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c10.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c11.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c11.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c12.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c12.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/c9.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/c9.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/d1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/d1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/d2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/d2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/d3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/d3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/d4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/d4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/d5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/d5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/d6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/d6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/d7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/d7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/h1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/h1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/h2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/h2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/h3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/h3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/h4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/h4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/h5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/h5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/h6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/h6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/h7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/h7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/h8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/h8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k10.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k10.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k11.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k11.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k12.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k12.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k15.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k15.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/k9.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/k9.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa11.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa11.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa12.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa12.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa13.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa13.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa14.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa14.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa15.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa15.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa16.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa16.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa17.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa17.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/khoa9.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/khoa9.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l10.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l10.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l11.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l11.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l12.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l12.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l13.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l13.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l14.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l14.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l15.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l15.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l16.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l16.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l17.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l17.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/l9.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/l9.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/ly1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/ly1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/ly2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/ly2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/ly3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/ly3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/ly4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/ly4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/ly5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/ly5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/ly6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/ly6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/ly7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/ly7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/n1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/n1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/n2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/n2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/n3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/n3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/n4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/n4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/n6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/n6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/n7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/n7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/o1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/o1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/o2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/o2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/o3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/o3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/o4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/o4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/o5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/o5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/o6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/o6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/o7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/o7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/o8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/o8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/t1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/t1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/t2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/t2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/t3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/t3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/t4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/t4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/t5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/t5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/t6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/t6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/t7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/t7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/t8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/t8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin10.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin10.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin11.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin11.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin12.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin12.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin13.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin13.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin14.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin14.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin15.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin15.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin16.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin16.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/tin9.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/tin9.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan10.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan10.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/toan9.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/toan9.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v10.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v10.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v11.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v11.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v12.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v12.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v13.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v13.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v14.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v14.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v15.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v15.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v16.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v16.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v17.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v17.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v18.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v18.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v19.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v19.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/v9.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/v9.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y1.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y1.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y10.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y10.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y11.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y11.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y12.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y12.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y13.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y13.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y14.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y14.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y15.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y15.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y16.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y16.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y2.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y2.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y3.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y3.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y4.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y4.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y5.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y5.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y6.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y6.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y7.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y7.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y8.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y8.jpg</location>
+		</link>
+		<link>
+			<name>WebContent/image_sach/y9.jpg</name>
+			<type>1</type>
+			<location>D:/Downloads/New folder (2)/BanSach/src/main/webapp/image_sach/y9.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
